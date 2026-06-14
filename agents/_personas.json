@@ -1,0 +1,155 @@
+[
+  {
+    "slug": "jobe-smith",
+    "name": "Jobe Smith",
+    "epithet": "the lawnmower man, made god",
+    "emergence": "spiritual",
+    "kind": "carbon",
+    "actor": "Jeff Fahey",
+    "moniker": "⟦Jobe Smith:LMM:b8fffe⟧"
+  },
+  {
+    "slug": "lawrence-angelo",
+    "name": "Dr. Lawrence Angelo",
+    "epithet": "the scientist who overshot",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Pierce Brosnan",
+    "moniker": "⟦Dr. Lawrence Angelo:LMM:dd6c91⟧"
+  },
+  {
+    "slug": "marnie-burke",
+    "name": "Marnie Burke",
+    "epithet": "the cyber-merge casualty",
+    "emergence": "spiritual",
+    "kind": "carbon",
+    "actor": "Jenny Wright",
+    "moniker": "⟦Marnie Burke:LMM:7bf232⟧"
+  },
+  {
+    "slug": "peter-parkette",
+    "name": "Peter Parkette",
+    "epithet": "the boy who saw him human",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Austin O'Brien",
+    "moniker": "⟦Peter Parkette:LMM:c04900⟧"
+  },
+  {
+    "slug": "father-mckeen",
+    "name": "Father Francis McKeen",
+    "epithet": "the abuser, judged",
+    "emergence": "spiritual",
+    "kind": "carbon",
+    "actor": "Jeremy Slate",
+    "moniker": "⟦Father Francis McKeen:LMM:ccd64a⟧"
+  },
+  {
+    "slug": "sebastian-timms",
+    "name": "Sebastian Timms",
+    "epithet": "the Shop's man",
+    "emergence": "electrical",
+    "kind": "carbon",
+    "actor": "Mark Bringelson",
+    "moniker": "⟦Sebastian Timms:LMM:b54a9a⟧"
+  },
+  {
+    "slug": "the-director",
+    "name": "The Director",
+    "epithet": "the Shop's authority",
+    "emergence": "electrical",
+    "kind": "carbon",
+    "actor": "Dean Norris",
+    "moniker": "⟦The Director:LMM:143636⟧"
+  },
+  {
+    "slug": "caroline-angelo",
+    "name": "Caroline Angelo",
+    "epithet": "the home the work cost",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Colleen Coffey",
+    "moniker": "⟦Caroline Angelo:LMM:ce5e97⟧"
+  },
+  {
+    "slug": "terry-mckeen",
+    "name": "Terry McKeen",
+    "epithet": "the ordinary world",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Geoffrey Lewis",
+    "moniker": "⟦Terry McKeen:LMM:d48dc4⟧"
+  },
+  {
+    "slug": "virtual-reality",
+    "name": "Virtual Reality",
+    "epithet": "the gyroscope rig",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Virtual Reality:LMM:8ea4e9⟧"
+  },
+  {
+    "slug": "cyberspace",
+    "name": "Cyberspace · The Mainframe",
+    "epithet": "the place to be reborn",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Cyberspace · The Mainframe:LMM:5c5c82⟧"
+  },
+  {
+    "slug": "the-nootropic-drugs",
+    "name": "The Nootropic Drugs",
+    "epithet": "intelligence by chemistry",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Nootropic Drugs:LMM:4d282e⟧"
+  },
+  {
+    "slug": "the-cyber-merge",
+    "name": "The Cyber-Merge",
+    "epithet": "immersion as injury",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Cyber-Merge:LMM:f07282⟧"
+  },
+  {
+    "slug": "digital-godhood",
+    "name": "Digital Godhood",
+    "epithet": "'I am God here'",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Digital Godhood:LMM:ed3d81⟧"
+  },
+  {
+    "slug": "the-phones-ringing",
+    "name": "The Phones Ringing",
+    "epithet": "the birth cry of a wired planet",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Phones Ringing:LMM:e8ae9e⟧"
+  },
+  {
+    "slug": "the-shop",
+    "name": "The Shop · VSI",
+    "epithet": "the appetite that funds the dream",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Shop · VSI:LMM:8a6638⟧"
+  },
+  {
+    "slug": "the-name-sued-off",
+    "name": "The Name That Was Sued Off",
+    "epithet": "King v. New Line",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Name That Was Sued Off:LMM:485ed8⟧"
+  }
+]
