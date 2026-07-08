@@ -9,5 +9,12 @@
   "seal": "Every generation fears the mind it is about to build. 1992 dressed that fear in VR gloves and polygon gods — got the costume wrong and the connected world right. We never uploaded Jobe; we uploaded ourselves.",
   "seal_sha256": "f372d09d1461564122c18cf8915a380713ff57d2a9d68454e5237787ab32ce41",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 693,
+    "prev": "617ee61164e2e264cc5bfff96a217f801a05ffdb777d8293b734dde007addf70",
+    "link": "b7b670415a9d408660a95cc53f1b90baafe52b7ecc30889fabca8303479bbabe",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
